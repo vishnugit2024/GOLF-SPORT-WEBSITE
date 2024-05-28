@@ -259,16 +259,16 @@ video {
 }
 
 #card1 {
-    background-image: url(card1.avif);
+    background-image: url(iMAGE/card1.avif);
     
 }
 
 #card2 {
-    background-image: url(card2.webp);
+    background-image: url(iMAGE/card2.webp);
 }
 
 #card3 {
-    background-image: url(card3.avif);
+    background-image: url(iMAGE/card3.avif);
     
 }
 
